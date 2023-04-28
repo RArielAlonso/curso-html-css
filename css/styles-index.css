@@ -1,0 +1,17 @@
+*{
+    color:red ;
+    font-family: Arial;
+}
+
+li{
+    color:blue;
+}
+
+.textoimportante{
+    color: black;
+}
+
+#manzana{
+    color:green;
+    font-weight: bold;
+}
